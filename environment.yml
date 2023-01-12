@@ -8,3 +8,6 @@
      - face_recognition
      - pip:
        - opencv-python
+       - cmake
+       - libgtk-3-dev
+       - freeglut3-dev
