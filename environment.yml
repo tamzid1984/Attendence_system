@@ -6,5 +6,5 @@
      - pandas
      - numpy
      - face_recognition
-     -pipenv
-      - opencv-python
+     - pip:
+       - opencv-python
