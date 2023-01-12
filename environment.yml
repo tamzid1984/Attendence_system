@@ -6,9 +6,10 @@
      - pandas
      - numpy
      - face_recognition
+     - cmake
+     - libgtk-3-dev
+     - freeglut3-dev
      - pip
      - pip:
        - opencv-python
-       - cmake
-       - libgtk-3-dev
-       - freeglut3-dev
+       
